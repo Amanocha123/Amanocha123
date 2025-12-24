@@ -1,33 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ashish Manocha</h1>
-<h3 align="center">A passionate Data Science Aspirant</h3>
+<!-- HERO SECTION -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanocha123&label=Profile%20views&color=0e75b6&style=flat" alt="amanocha123" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ashish%20Manocha&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanocha123" alt="amanocha123" /></a> </p>
+### 🚀 Aspiring Data Scientist | Machine Learning | NLP
 
-<p align="left"> <a href="https://twitter.com/@ashish_man90847" target="blank"><img src="https://img.shields.io/twitter/follow/@ashish_man90847?logo=twitter&style=for-the-badge" alt="@ashish_man90847" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning+Enthusiast;Turning+Data+Into+Insights;Always+Learning+%26+Building" />
 
-- 🔭 I’m currently working on **Chat Bots Creation using LLM**
+</div>
 
-- 🌱 I’m currently learning **LLM**
+---
 
-- 👯 I’m looking to collaborate on **NLP Project: Spam/Ham Classification with Text Vectorization**
+## 👋 About Me
 
-- 🤝 I’m looking for help with **Chat Bots Creation using LLM**
+- 🎓 Student at **AAFT**
+- 📊 Passionate about **Data Science & Machine Learning**
+- 🧠 Strong in **Statistics, ML Algorithms & Python**
+- 🛠️ Love building **real-world ML projects**
+- 🚀 Goal: Become a **Top Data Scientist & Tech Creator**
 
-- 💬 Ask me about **Python,Java,Bootstrap**
+---
 
-- 📫 How to reach me **ashishmanocha012@gmail.com**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ashish_man90847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashish_man90847" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ashishmanocha/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ashishmanocha/code" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanocha123&show_icons=true&locale=en&layout=compact" alt="amanocha123" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanocha123&" alt="amanocha123" /></p>
+---
+
+## 📌 Featured Projects
+
+🔹 **Machine Learning Projects**  
+🔹 **Data Analysis & Visualization**  
+🔹 **Predictive Modeling & NLP**  
+
+👉 Check them out here:  
+🔗 **https://github.com/YOUR_GITHUB_USERNAME**
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram)](https://instagram.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
