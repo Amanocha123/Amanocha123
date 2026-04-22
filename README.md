@@ -1,109 +1,37 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ashish Manocha</h1>
+<h3 align="center">A passionate Artifical Intelligence Enthusiast</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FBFF&text=ASHISH%20MANOCHA&height=220&fontSize=95&desc=MACHINE%20LEARNING%20ENTHUSIAST&descSize=25&descAlign=75&animation=fadeIn" width="100%" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanocha123&label=Profile%20views&color=0e75b6&style=flat" alt="amanocha123" /> </p>
 
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanocha123" alt="amanocha123" /></a> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FBFF&center=true&vCenter=true&width=1000&height=50&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Turning+Data+Into+Insights;Python+%7C+ML+%7C+NLP+%7C+Computer+Vision" />
-</p>
+<p align="left"> <a href="https://twitter.com/@ashish_man90847" target="blank"><img src="https://img.shields.io/twitter/follow/@ashish_man90847?logo=twitter&style=for-the-badge" alt="@ashish_man90847" /></a> </p>
 
-<br/>
+- 🔭 I’m currently working on **Chat Bots Creation using LLM**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM%20ACCESSES&color=00FBFF&style=flat-square" />
+- 🌱 I’m currently learning **LLM**
 
-<br/>
-<br/>
-<br/>
+- 👯 I’m looking to collaborate on **NLP Project: Spam/Ham Classification with Text Vectorization**
 
-</div>
+- 🤝 I’m looking for help with **Chat Bots Creation using LLM**
 
----
+- 💬 Ask me about **Python,Java,Bootstrap**
 
-## 🚀 About Me
+- 📫 How to reach me **ashishmanocha012@gmail.com**
 
-<br/>
-
-- 🎓 **Identity:** Aspiring **Data Scientist** with a passion for **Algorithmic Intelligence**
-- 🤖 **Focus:** Specialized in **Machine Learning, Deep Learning, and Computer Vision**
-- 🐍 **Core:** Expert foundation in **Python, Statistical Modeling, and MLOps**
-- 📈 **Goal:** Building high-impact, scalable AI solutions for real-world complexity
-- 📧 **Direct Access:** **ashishmanocha012@gmail.com**
-
-<br/>
-
----
-
-## 🌐 Connectivity Matrix
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FBFF" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FBFF" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FBFF" />
-  </a>
+<a href="https://twitter.com/@ashish_man90847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashish_man90847" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-manocha-508204218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-manocha-508204218/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/ashishmanocha/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ashishmanocha/code" height="30" width="40" /></a>
+<a href="https://instagram.com/the_ashish_vibe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ashish_vibe" height="30" width="40" /></a>
 </p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanocha123&show_icons=true&locale=en&layout=compact" alt="amanocha123" /></p>
 
-## 🧑‍💻 Technical Arsenal
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanocha123&show_icons=true&locale=en" alt="amanocha123" /></p>
 
-### 🤖 Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FBFF)
-![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=00FBFF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FBFF)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FBFF)
-
-<br/>
-
-### 📊 Engineering & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FBFF)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FBFF)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FBFF)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00FBFF)
-
-<br/>
-
-### 🛠️ Infrastructure & Tools
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FBFF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FBFF)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FBFF)
-
-<br/>
-
----
-
-## 📊 Performance Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FBFF&text_color=ffffff" height="180" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FBFF&text_color=ffffff" height="180" />
-
-</div>
-
-<br/>
-
----
-
-## 📌 Active Development
-- 🧠 Advanced Neural Network Architectures
-- 🚀 MLOps Pipeline Automation
-- 🤟 Real-time Gesture Recognition Systems
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FBFF&height=2&width=400" />
-  <br/>
-  <p><i>Building the Future through Algorithmic Clarity</i></p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanocha123&" alt="amanocha123" /></p>
