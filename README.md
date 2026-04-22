@@ -1,36 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=ASHISH%20MANOCHA&fontSize=75&fontColor=00FBFF&animation=fadeIn&desc=DATA%20SCIENTIST%20|%20MACHINE%20LEARNING%20ENTHUSIAST&descSize=22&descAlign=65" width="100%" alt="Ashish Manocha Tech Banner" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FBFF&text=ASHISH%20MANOCHA&height=150&fontSize=90&desc=DATA%20SCIENTIST%20|%20MACHINE%20LEARNING%20ENTHUSIAST&descSize=20&descAlign=75&animation=fadeIn" width="100%" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FBFF&center=true&vCenter=true&width=600&lines=Solving+Complex+Data+Puzzles;Building+Predictive+Architecture;NLP+%26+Computer+Vision+Specialist;Passionate+About+Machine+Learning" alt="Technical Skills Typing" />
-
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FBFF&center=true&vCenter=true&width=600&lines=Solving+Complex+Data+Puzzles;Building+Predictive+Architecture;NLP+%26+Computer+Vision+Specialist;Passionate+About+Machine+Learning" />
+
+<br/>
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" />
 
 </div>
 
+<br/>
+<br/>
+<br/>
+
 ---
 
-## 🚀 Technical Core & Arsenal
+<br/>
+<br/>
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 🤖 Machine Learning & Artificial Intelligence
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000" />
+<br/>
+
+### 🤖 Machine Learning & AI
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FBFF" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FBFF" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FBFF" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=00FBFF" />
+
+<br/>
+<br/>
+
+### 📊 Statistical Engineering
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FBFF" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FBFF" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=00FBFF" /> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=power-bi&logoColor=00FBFF" />
+
+</div>
+
+<br/>
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+## 📌 Selected Research & Engineering
 
 <br/>
 
-### 📊 Statistical Engineering & Analysis
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/SQL_Server-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=000000" />
-<img src="
+### 🏠 House Price Prediction Engine
+> *Investigating market volatility and dispersion using advanced regression.*
+- **Core:** Feature Engineering & Outlier Analysis.
+- **Stack:** Python, Scikit-Learn.
+
+<br/>
+
+### 🤟 Sign Language Recognition
+> *Leveraging Computer Vision for real-time gesture tracking.*
+- **Core:** CNN Architectures & OpenCV.
+- **Stack:** TensorFlow, Keras.
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=4
